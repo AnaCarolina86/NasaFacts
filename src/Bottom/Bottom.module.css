@@ -1,0 +1,19 @@
+h2{
+    color: #023246;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    
+}
+
+.git{
+    color:#023246;
+    padding-right: 10px;
+    width: 15%;
+}
+
+.bottom{
+    background-color: #f6f6f6b6;
+    text-align: center;
+    padding: 5% 2%;
+}

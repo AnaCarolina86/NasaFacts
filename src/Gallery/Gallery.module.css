@@ -1,0 +1,19 @@
+a{
+    color: whitesmoke;
+    font-size: larger;
+}
+
+.pics{
+    flex-wrap: nowrap;
+}
+
+.img{    
+    border-radius: 8px;
+    padding: 1%;
+    position: relative;
+    width: 55%;
+}
+
+.gallery{
+    text-align: center;
+}

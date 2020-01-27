@@ -1,0 +1,16 @@
+.card{
+
+}
+
+.head{
+    font-weight: 700;
+    padding-bottom: 2%;
+}
+
+.description{
+    font-size: larger;
+    font-weight: 600;
+    line-height: 2rem;
+    text-align: justify;
+    padding-bottom: 7%;
+}
