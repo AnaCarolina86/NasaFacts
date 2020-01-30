@@ -16,6 +16,11 @@ It was great for me, because this project applies ES6 and components, so you rea
 
 I added four new components, (Title, Gallery, GalleryItem, and Bottom) for a couple of reasons. First, I needed to check if I really understood what I was doing. For that, I created a new json file with some information from the Nasa website, and I built components in order to use properly this file. Another reason, I wanted to improve the website sytle.
 
+### Content
+
+I used public information from [Nasa](https://www.nasa.gov/) in order to show some interesting facts. This data was "stored" in a json file. 
+
 ### Next
 
 Yes, I am going to continue developing this project, and I am really excited about the next ones!
+
