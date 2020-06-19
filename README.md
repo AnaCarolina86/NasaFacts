@@ -22,5 +22,5 @@ I used public information from [Nasa](https://www.nasa.gov/) in order to show so
 
 ### Next
 
-Yes, I am going to continue developing this project. I am learning how to use Bootstrap in a React project.
+Yes, I am going to continue developing this project. I am learning how to use Bootstrap (Carosel Component) in a React project.
 
